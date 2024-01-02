@@ -1,6 +1,6 @@
 - Hi, I’m @SairaDev02
-- I’m interested in software development
-- I’m currently learning programming basics in C, C++,Java, and Python
+- I’m interested in software development and generative AI
+- I’m currently learning programming basics in C, C++, Java, and Python
 - I'm a 3rd Year Software Engineering student
 
 <!---
