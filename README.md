@@ -1,5 +1,5 @@
-- Hi, I’m @SairaDev02
-- I’m interested in software development and generative AI
+- Hi, I’m @SairaDev02 / FerdinandM
+- I’m interested in Software Development, Quality Assurance and Generative AI
 - I’m currently learning programming basics in C, C++, Java, and Python as well as Web Development technologies
 - I'm a 3rd Year Software Engineering student
 
