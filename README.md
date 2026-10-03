@@ -1,8 +1,3 @@
-- Hi, I’m @SairaDev02
-- I’m interested in Software Engineering, Agentic tools & LLM development
-- I’m currently learning programming basics in C, C++, Java, and Python as well as Web Development technologies
-
-<!---
-SairaDev02/SairaDev02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi!, I’m @SairaDev02
+- I’m interested in Software Engineering, Agentic tools & Rust development.
+- I’m currently learning AI/agentic development, software engineering practices, Rust-based projects, developer tooling and modern software workflows & philosophies.
